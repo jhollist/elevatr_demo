@@ -1,0 +1,4 @@
+]0;/home/jhollist/projects/elevatr_demo]0;jhollist@jwh: ~/projects/elevatr_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/elevatr_demo[00m$ [K]0;jhollist@jwh: ~/projects/elevatr_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/elevatr_demo[00m$ git initi[K
+Initialized empty Git repository in /home/jhollist/projects/elevatr_demo/.git/
+]0;/home/jhollist/projects/elevatr_demo]0;jhollist@jwh: ~/projects/elevatr_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/elevatr_demo[00m$ git remote add origin https://github.com/jhollist/elevatr_demo
+]0;/home/jhollist/projects/elevatr_demo]0;jhollist@jwh: ~/projects/elevatr_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/elevatr_demo[00m$ git c[Kadd -A

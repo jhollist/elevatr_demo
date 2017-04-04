@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1491266815538.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1204648531",
+    "id" : "59E8728B",
+    "lastKnownWriteTime" : 1491267166,
+    "last_content_update" : 1491267166605,
+    "path" : "~/projects/elevatr_demo/elevatr_demo.R",
+    "project_path" : "elevatr_demo.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
